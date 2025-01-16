@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Nostr Blog
 
 A demo blogging application for a workshop on Nostr software design patterns.
