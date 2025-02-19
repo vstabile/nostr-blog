@@ -45,7 +45,7 @@
 		"@markdoc/markdoc": "^0.4.0",
 		"@nostr-dev-kit/ndk": "^2.10.0",
 		"@nostr-dev-kit/ndk-cache-dexie": "^2.5.1",
-		"bits-ui": "^0.21.13",
+		"bits-ui": "^0.22.0",
 		"clsx": "^2.1.1",
 		"formsnap": "^1.0.1",
 		"lucide-svelte": "^0.427.0",
